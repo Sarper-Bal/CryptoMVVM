@@ -1,6 +1,6 @@
 # CryptoMVVM
 
-- İnternetten çekilen kripto para kuralınını gösterilmesi.
+- İnternetten çekilen kripto para kurlarının gösterilmesi.
 
 - MVVM, Escapig, RxSwift teknolojilerini uygulamalı olarak öğrendiğim proje.
 
