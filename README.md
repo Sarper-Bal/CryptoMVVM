@@ -4,7 +4,7 @@
 
 - MVVM, Escapig, RxSwift teknolojilerini uygulamalı olarak öğrendiğim proje.
 
-##Aplicaton Page
+## Aplicaton Page
 
 
 <img src="https://github.com/Sarper-Bal/CryptoMVVM/assets/49680723/057ae8f4-ffe7-4830-a925-c9d2c237e29a" width="350">.
